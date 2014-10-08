@@ -1,5 +1,6 @@
 maestro
 =======
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/jonjuscorpion666/maestro?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![Stories in Ready](https://badge.waffle.io/commbank/maestro.png?label=ready&title=Ready)](https://waffle.io/commbank/maestro) 
 [![Build Status](https://travis-ci.org/CommBank/maestro.svg?branch=master)](https://travis-ci.org/CommBank/maestro)
